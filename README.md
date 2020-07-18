@@ -1,3 +1,7 @@
+## Postman testing screenshot
+Please see Testing screenshot.md > https://github.com/RLNYC/udacity_privateChain/blob/master/Testing%20screenshot.md
+
+
 # Private Blockchain Application
 
 You are starting your journey as a Blockchain Developer, this project allows you to demonstrate
